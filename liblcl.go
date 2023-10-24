@@ -1,6 +1,6 @@
 package liblclbinres
 
-const version = "v1.0.15"
+const version = "v1.0.1"
 
 func LibVersion() string {
 	return version
